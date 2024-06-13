@@ -40,6 +40,9 @@ The following features are implemented:
 
 * Changing Winds
 
+![wind](https://github.com/lauren-e-gardner/Fabric_Simulator/assets/157167532/727ded32-7e05-43b7-ae56-e479321b2e68)
+
+
 ### Installing and Executing
 
 Download repository and run the following in terminal:
